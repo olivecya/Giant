@@ -1,1 +1,1 @@
-# Giant
+# Location LatLon Sample
